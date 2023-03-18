@@ -1,17 +1,15 @@
-# @weblueth/custom
+# @weblueth/react
 
-@weblueth, custom template.
-
-[Live Demo (GitHub Pages)](https://jp-rad.github.io/weblueth-custom/)
+Web Bluetooth react context.
 
 ## Installation:
 
 ```bash
-npm install @weblueth/custom --save-dev
+npm install @weblueth/react --save-dev
 ```
 
 or
 
 ```bash
-yarn add --dev @weblueth/custom
+yarn add --dev @weblueth/react
 ```
